@@ -1,2 +1,1 @@
-From k8s.gcr.io/addon-resizer:1.8.4
-Maintainer chenyanshan yanshanchen@hotmail.com
+RUN /usr/bin/wget https://storage.googleapis.com/kubernetes-release/release/v1.14.1/kubernetes-server-linux-amd64.tar.gz
