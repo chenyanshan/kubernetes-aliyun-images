@@ -1,2 +1,2 @@
-From quay.io/coreos/prometheus-config-reloader:v0.29.0
+From quay.io/prometheus/prometheus:v2.9.1
 Maintainer chenyanshan yanshanchen@hotmail.com
