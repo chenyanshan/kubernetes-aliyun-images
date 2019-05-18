@@ -1,2 +1,2 @@
-From quay.io/coreos/prometheus-operator:v0.29.0
+From quay.io/prometheus/alertmanager:v0.16.2
 Maintainer chenyanshan yanshanchen@hotmail.com
