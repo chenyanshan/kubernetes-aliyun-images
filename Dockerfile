@@ -1,2 +1,2 @@
-From gcr.io/google_containers/metrics-server-amd64:v0.2.0
+From k8s.gcr.io/kube-apiserver:v1.17.0
 Maintainer chenyanshan yanshanchen@hotmail.com
