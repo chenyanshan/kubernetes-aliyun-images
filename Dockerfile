@@ -1,2 +1,1 @@
-From k8s.gcr.io/coredns:1.6.5
-Maintainer chenyanshan yanshanchen@hotmail.com
+From k8s.gcr.io/kube-apiserver:v1.17.0
