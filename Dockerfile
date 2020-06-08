@@ -1,1 +1,1 @@
-From quay.io/coreos/flannel:v0.12.0-arm64
+From quay.io/coreos/flannel:v0.12.0-amd64
