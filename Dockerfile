@@ -1,1 +1,1 @@
-From prom/prometheus:v2.19.0
+From grafana/grafana:7.0.5
