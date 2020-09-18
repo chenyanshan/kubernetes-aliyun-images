@@ -1,1 +1,1 @@
-From quay.io/kiali/kiali:v1.22
+From prom/prometheus:v2.19.0
