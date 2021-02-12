@@ -1,1 +1,1 @@
-From grafana/grafana:7.0.5
+From k8s.gcr.io/kube-apiserver:v1.20.2
