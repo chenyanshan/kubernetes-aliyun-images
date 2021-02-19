@@ -1,1 +1,1 @@
-From k8s.gcr.io/coredns:1.7.0
+From k8s.gcr.io/sig-storage/csi-provisioner:v2.0.4
