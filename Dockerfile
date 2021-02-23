@@ -1,1 +1,1 @@
-From k8s.gcr.io/ingress-nginx/controller:v0.44.0
+From docker.io/projectcontour/contour:v1.12.0
