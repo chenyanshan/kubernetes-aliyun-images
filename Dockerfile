@@ -1,1 +1,1 @@
-From docker.io/projectcontour/contour:v1.12.0
+From docker.io/bitnami/kibana:7.10.2-debian-10-r11
