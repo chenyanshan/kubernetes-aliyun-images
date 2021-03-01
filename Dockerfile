@@ -1,1 +1,1 @@
-From docker.io/bitnami/kibana:7.10.2-debian-10-r11
+From docker.io/bitnami/influxdb:2.0.4-debian-10-r0
