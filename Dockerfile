@@ -1,1 +1,1 @@
-From docker.io/bitnami/influxdb:2.0.4-debian-10-r0
+From k8s.gcr.io/metrics-server/metrics-server:v0.4.2
