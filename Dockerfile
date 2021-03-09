@@ -1,1 +1,1 @@
-From quay.io/prometheus/prometheus:v2.22.1
+From gcr.io/kaniko-project/executor:v1.5.1
