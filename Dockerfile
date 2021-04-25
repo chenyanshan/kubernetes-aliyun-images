@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:v1.5.1-debug
+From k8s.gcr.io/coredns:v1.8.0
