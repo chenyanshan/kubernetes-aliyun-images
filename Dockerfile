@@ -1,1 +1,1 @@
-From k8s.gcr.io/pause:3.4.1
+From flannelcni/flannel-cni-plugin:v1.0-arm64
